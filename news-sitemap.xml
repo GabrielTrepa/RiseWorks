@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://rise.co/blog/rise-eor-is-now-live-in-ireland</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>https://rise.co/blog/weekly-payroll</loc>
+    <lastmod>2025-12-04T11:09:31+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <news:news>
@@ -11,8 +11,22 @@
         <news:name>Rise</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-12-03T00:00:00+00:00</news:publication_date>
-      <news:title>Rise EOR Is Now Live in Ireland: Hire Full-Time Employees in Ireland from Abroad</news:title>
+      <news:publication_date>2025-12-04T11:09:31+00:00</news:publication_date>
+      <news:title>Weekly Payroll in 2025: What You Need to Know</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://rise.co/blog/payroll-outsourcing</loc>
+    <lastmod>2025-12-05T09:37:33+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Rise</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-05T09:37:33+00:00</news:publication_date>
+      <news:title>Top 7 Benefits of Payroll Outsourcing for Your Business</news:title>
     </news:news>
   </url>
 </urlset>
