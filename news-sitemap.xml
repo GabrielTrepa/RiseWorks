@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<!-- No blog posts published in the last 48 hours -->
+  <url>
+    <loc>https://rise.co/blog/modern-human-resources</loc>
+    <lastmod>2025-12-09T08:08:26+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Rise</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T08:08:26+00:00</news:publication_date>
+      <news:title>Modern Human Resources: The Ultimate Guide for 2025</news:title>
+    </news:news>
+  </url>
 </urlset>
